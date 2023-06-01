@@ -4331,15 +4331,10 @@ margin-left:18.75pt;margin-right:18.75pt'>
     <td width="5%" style='width:5.62%;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
     <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
     mso-fareast-font-family:"Times New Roman"'>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VX7690VN85"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VX7690VN85');
-</script>
+<script  type="text/javascript">
+var _clustrmaps = {'url' : 'http://www.math.unl.edu/~aseceleanu2', 'user' : 1166050, 'server' : '3', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2015-04-06', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www3.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();
+    </script><script id="clustrmaps"  type="text/javascript" src="//cdn.clustrmaps.com/map_v2.js?u=yyzS&d=8Z0P7XbluFMr9QY1y-QhOyMRJH2Z9wejvwQp77-v-RQ">
+    </script>
 <o:p>&nbsp;</o:p></span></p>
     </td>
    </tr>

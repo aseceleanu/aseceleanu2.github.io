@@ -26,22 +26,22 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>aseceleanu2</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Alexandra Seceleanu</o:LastAuthor>
-  <o:Revision>12</o:Revision>
-  <o:TotalTime>7403</o:TotalTime>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>7384</o:TotalTime>
   <o:Created>2022-12-07T13:48:00Z</o:Created>
-  <o:LastSaved>2023-08-09T19:46:00Z</o:LastSaved>
+  <o:LastSaved>2023-04-03T14:07:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>4626</o:Words>
-  <o:Characters>26370</o:Characters>
+  <o:Words>4489</o:Words>
+  <o:Characters>25591</o:Characters>
   <o:Company>University of Nebraska&#45;-Lincoln</o:Company>
-  <o:Lines>219</o:Lines>
-  <o:Paragraphs>61</o:Paragraphs>
-  <o:CharactersWithSpaces>30935</o:CharactersWithSpaces>
+  <o:Lines>213</o:Lines>
+  <o:Paragraphs>60</o:Paragraphs>
+  <o:CharactersWithSpaces>30020</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
-<link rel=dataStoreItem href="index_files/item0024.xml"
-target="index_files/props025.xml">
+<link rel=dataStoreItem href="index_files/item0032.xml"
+target="index_files/props033.xml">
 <link rel=themeData href="index_files/themedata.thmx">
 <link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
@@ -90,7 +90,7 @@ target="index_files/props025.xml">
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
+  LatentStyleCount="375">
   <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
   <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
@@ -658,8 +658,6 @@ target="index_files/props025.xml">
    Name="Hashtag"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
 <link rel=Stylesheet type="text/css" media=all href="css/webstyles.css">
@@ -668,25 +666,25 @@ target="index_files/props025.xml">
  /* Font Definitions */
  @font-face
 	{font-family:Helvetica;
-	panose-1:0 0 0 0 0 0 0 0 0 0;
+	panose-1:2 11 6 4 2 2 2 2 2 4;
 	mso-font-charset:0;
-	mso-generic-font-family:auto;
+	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1342208091 0 0 415 0;}
+	mso-font-signature:-536858881 -1073711013 9 0 511 0;}
 @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Verdana;
 	panose-1:2 11 6 4 3 5 4 4 2 4;
 	mso-font-charset:0;
 	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
-	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+	mso-font-signature:-1610610945 1073750107 16 0 415 0;}
 @font-face
 	{font-family:Tahoma;
 	panose-1:2 11 6 4 3 5 4 4 2 4;
@@ -715,6 +713,7 @@ h1
 	mso-style-qformat:yes;
 	mso-style-link:"Heading 1 Char";
 	margin:0in;
+	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	mso-outline-level:1;
 	font-size:26.5pt;
@@ -803,7 +802,8 @@ h6
 	mso-fareast-theme-font:minor-fareast;
 	font-weight:bold;}
 a:link, span.MsoHyperlink
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	color:#C60202;
 	text-decoration:underline;
 	text-underline:single;}
@@ -1097,6 +1097,7 @@ p.vertnav, li.vertnav, div.vertnav
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin:0in;
+	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
 	font-family:"Times New Roman",serif;
@@ -1155,6 +1156,7 @@ p.calloutboxheader, li.calloutboxheader, div.calloutboxheader
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin:0in;
+	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	background:#EEE6CE;
 	font-size:12.0pt;
@@ -1168,6 +1170,7 @@ p.calloutbox, li.calloutbox, div.calloutbox
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	margin:0in;
+	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
 	font-family:"Times New Roman",serif;
@@ -1310,9 +1313,7 @@ span.GramE
 	mso-default-props:yes;
 	font-size:10.0pt;
 	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;
-	mso-font-kerning:0pt;
-	mso-ligatures:none;}
+	mso-bidi-font-size:10.0pt;}
 @page WordSection1
 	{size:8.5in 11.0in;
 	margin:1.0in 1.0in 1.0in 1.0in;
@@ -1323,8 +1324,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:236944200;
-	mso-list-template-ids:-1238857062;}
+	{mso-list-id:268004406;
+	mso-list-template-ids:715410310;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1398,8 +1399,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l1
-	{mso-list-id:692926044;
-	mso-list-template-ids:858558622;}
+	{mso-list-id:653146399;
+	mso-list-template-ids:1286475142;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1473,8 +1474,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l2
-	{mso-list-id:1106847866;
-	mso-list-template-ids:110416974;}
+	{mso-list-id:778568059;
+	mso-list-template-ids:-320029594;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1548,8 +1549,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l3
-	{mso-list-id:1250655672;
-	mso-list-template-ids:-1236469292;}
+	{mso-list-id:1191723273;
+	mso-list-template-ids:1302596172;}
 @list l3:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1559,40 +1560,72 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l3:level2
-	{mso-level-tab-stop:1.0in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level3
-	{mso-level-tab-stop:1.5in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level4
-	{mso-level-tab-stop:2.0in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level5
-	{mso-level-tab-stop:2.5in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level6
-	{mso-level-tab-stop:3.0in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level7
-	{mso-level-tab-stop:3.5in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level8
-	{mso-level-tab-stop:4.0in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l3:level9
-	{mso-level-tab-stop:4.5in;
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;}
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l4
-	{mso-list-id:1316762214;
-	mso-list-template-ids:1888000566;}
+	{mso-list-id:1250655672;
+	mso-list-template-ids:-1236469292;}
 @list l4:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1602,69 +1635,37 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l4:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:1.0in;
+	{mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:1.5in;
+	{mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:2.0in;
+	{mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:2.5in;
+	{mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:3.0in;
+	{mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:3.5in;
+	{mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:4.0in;
+	{mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l4:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:4.5in;
+	{mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	text-indent:-.25in;}
 @list l5
 	{mso-list-id:1428690558;
 	mso-list-type:hybrid;
@@ -1722,8 +1723,8 @@ div.WordSection1
 	mso-level-number-position:right;
 	text-indent:-9.0pt;}
 @list l6
-	{mso-list-id:1711681999;
-	mso-list-template-ids:1081490598;}
+	{mso-list-id:1534077107;
+	mso-list-template-ids:609935278;}
 @list l6:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1810,6 +1811,7 @@ div.WordSection1
 	mso-style-parent:"";
 	mso-padding-alt:0in 5.4pt 0in 5.4pt;
 	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
@@ -1819,7 +1821,29 @@ div.WordSection1
 p.MsoNormal
 	{margin-left:18.75pt;}
 </style>
-<![endif]><!-- InstanceBeginEditable name="doctitle" --><!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!--[if gte mso 9]><xml>
+<![endif]><!-- InstanceBeginEditable name="doctitle" --><!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<script language="JavaScript"  type="text/javascript">
+<!--
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1031"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
@@ -1828,7 +1852,7 @@ p.MsoNormal
 </head>
 
 <body lang=EN-US link="#C60202" vlink="#C60202" style='tab-interval:.5in;
-word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
+margin-left:18.75pt;margin-right:18.75pt'>
 
 <div class=WordSection1>
 
@@ -1843,18 +1867,20 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
    <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
     height:55.5pt'>
     <td width="25%" style='width:25.0%;padding:0in 0in 0in 0in;height:55.5pt'>
-    <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-    font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-    mso-no-proof:yes'><img width=232 height=52 id="_x0000_i1045"
-    src="images/UNL-logo2.gif" alt=UNL></span><span style='font-size:9.0pt;
-    font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman";mso-no-proof:yes'><img width=232 height=52
+    id="_x0000_i1772" src="images/UNL-logo2.gif" alt=UNL></span><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
     </td>
     <td width="75%" style='width:75.0%;padding:0in 0in 0in 0in;height:55.5pt'>
-    <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-    font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-    mso-no-proof:yes'><img width=910 height=49 id="_x0000_i1044"
-    src="images/UNLcampus.jpg" alt="UNL campus"></span><span style='font-size:
-    9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman";mso-no-proof:yes'><img width=910 height=49
+    id="_x0000_i1771" src="images/UNLcampus.jpg" alt="UNL campus"></span><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman"'><o:p></o:p></span></p>
     </td>
    </tr>
   </table>
@@ -1868,9 +1894,9 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
    0in 0in 0in 0in'>
    <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
     <td width="20%" style='width:20.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
-    <p class=MsoNormal style='margin:0in'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
-     coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
-     filled="f" stroked="f">
+    <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><!--[if gte vml 1]><v:shapetype
+     id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+     path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
      <v:stroke joinstyle="miter"/>
      <v:formulas>
       <v:f eqn="if lineDrawn pixelLineWidth 0"/>
@@ -1900,7 +1926,7 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
      o:allowoverlap="f">
      <v:imagedata src="index_files/image001.jpg" o:title=""/>
      <w:wrap type="square" anchory="line"/>
-    </v:shape><![endif]--><![if !vml]><img width=125 height=155
+    </v:shape><![endif]--><![if !vml]><img width=166 height=207
     src="index_files/image001.jpg" align=left v:shapes="Picture_x0020_2"><![endif]><span
     style='mso-no-proof:yes'><a name=content></a><o:p></o:p></span></p>
     </td>
@@ -1936,40 +1962,43 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
      </tr>
      <tr style='mso-yfti-irow:1;height:10.3pt' bordercolor=grey>
       <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.3pt'>
-      <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-      font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>E-mail:<o:p></o:p></span></p>
+      <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+      style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+      "Times New Roman"'>E-mail:<o:p></o:p></span></p>
       </td>
       <td width=191 valign=top style='width:143.3pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
       height:10.3pt'>
-      <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-      font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><a
-      href="mailto:aseceleanu@unl.edu">aseceleanu@unl.edu</a><o:p></o:p></span></p>
+      <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+      style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+      "Times New Roman"'><a href="mailto:aseceleanu@unl.edu">aseceleanu@unl.edu</a><o:p></o:p></span></p>
       </td>
      </tr>
      <tr style='mso-yfti-irow:2;height:10.3pt' bordercolor=grey>
       <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.3pt'>
-      <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-      font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Office:<o:p></o:p></span></p>
+      <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+      style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+      "Times New Roman"'>Office:<o:p></o:p></span></p>
       </td>
       <td width=191 valign=top style='width:143.3pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
       height:10.3pt'>
-      <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-      font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>338
-      Avery Hall<o:p></o:p></span></p>
+      <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+      style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+      "Times New Roman"'>338 Avery Hall<o:p></o:p></span></p>
       </td>
      </tr>
      <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:41.8pt'
       bordercolor=grey>
       <td valign=top style='padding:3.75pt 3.75pt 3.75pt 3.75pt;height:41.8pt'>
-      <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-      font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Mailing<br>
+      <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+      style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+      "Times New Roman"'>Mailing<br>
       Address:<o:p></o:p></span></p>
       </td>
       <td width=191 valign=top style='width:143.3pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
       height:41.8pt'>
-      <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-      font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Department
-      of Mathematics<br>
+      <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+      style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+      "Times New Roman"'>Department of Mathematics<br>
       203 Avery Hall<br>
       Lincoln, NE 68588<o:p></o:p></span></p>
       </td>
@@ -2080,13 +2109,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <div>
-  <div class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  <div class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></div>
-  </div>
   </div>
   </div>
   </div>
@@ -2190,40 +2217,36 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <h2 style='text-align:justify'><a name=papers></a><span style='font-size:
   13.5pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>About
   Me<o:p></o:p></span></h2>
-  <p class=MsoNormal style='margin-bottom:0in'><span style='mso-fareast-font-family:
-  "Times New Roman"'>I am an associate professor of mathematics at the
-  University of Nebraska-Lincoln. My research focuses on commutative algebra
-  with a geometric and computational flavor.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0in'><span style='mso-fareast-font-family:
-  "Times New Roman"'>I have been awarded the 2018 <b style='mso-bidi-font-weight:
-  normal'><a
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+  style='mso-fareast-font-family:"Times New Roman"'>I am an associate professor
+  of mathematics at the University of Nebraska-Lincoln. My research focuses on
+  commutative algebra with a geometric and computational flavor.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+  style='mso-fareast-font-family:"Times New Roman"'>I have been awarded the
+  2018 <b style='mso-bidi-font-weight:normal'><a
   href="https://academicaffairs.unl.edu/honors-development/awards/edgerton"><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Harold &amp; Esther
   Edgerton Junior Faculty Award</span></a></b> for creative research,
   extraordinary teaching abilities, and academic promise.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0in'><span style='mso-fareast-font-family:
-  "Times New Roman"'>I co-organize a conference on </span><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+  style='mso-fareast-font-family:"Times New Roman"'>I co-organize a conference
+  on </span><span class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://math.unl.edu/brianfest2023">Unexpected and Asymptotic
   Properties of Algebraic Varieties</a></span></b></span><span
   style='mso-fareast-font-family:"Times New Roman"'> in Lincoln, NE on August
   11-13, 2023.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0in'><span style='mso-fareast-font-family:
-  "Times New Roman"'>I co-organize the workshop </span><span
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+  style='mso-fareast-font-family:"Times New Roman"'>I co-organize the workshop </span><span
   class=MsoHyperlink><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://mathstat.dal.ca/~faridi/WICAII"><b style='mso-bidi-font-weight:
   normal'>Women in Commutative Algebra II</b></a></span></span><span
   style='mso-fareast-font-family:"Times New Roman"'> at CIRM Trento on October
-  16-20, <span class=GramE>2023</span> and </span><span class=MsoHyperlink><b
-  style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
-  "Verdana",sans-serif'>Women in Commutative Algebra III</span></b></span><span
-  style='mso-fareast-font-family:"Times New Roman"'> at CMO Oaxaca June 2-7,
-  2024.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0in'><span style='mso-fareast-font-family:
-  "Times New Roman"'>In the news: </span><span class=MsoHyperlink><b
-  style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
-  "Verdana",sans-serif'><a
+  16-20, 2023.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
+  style='mso-fareast-font-family:"Times New Roman"'>In the news: </span><span
+  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://www.ams.org/journals/notices/202103/rnoti-p375.pdf">When life
   gives you lemons, make mathematicians</a></span></b></span><span
   style='mso-fareast-font-family:"Times New Roman"'>, an article in the Notices
@@ -2273,13 +2296,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <div>
-  <div class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  <div class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></div>
-  </div>
   </div>
   </div>
   </div>
@@ -2328,71 +2349,71 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <p class=MsoNormal style='margin-top:0in'><span style='mso-fareast-font-family:
   "Times New Roman"'>Graduate students:<o:p></o:p></span></p>
   <ul type=disc>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'><a
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><a
        href="http://www.math.unl.edu/~bdrabkin2/">Ben <span class=SpellE>Drabkin</span></a>
        - </span></b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
        mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'>PhD
        2020 <b><o:p></o:p></b></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'><a
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><a
        href="https://youtu.be/j368pBapgRE">Andrew Conner</a> - </span></b><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman";mso-bidi-font-weight:bold'>MA 2020<b> <o:p></o:p></b></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'>Erica Hopkins </span></b><span
-       style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-       "Times New Roman";mso-bidi-font-weight:bold'>(co-advised with Mark
-       Walker) - PhD 2021<b><o:p></o:p></b></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'>Michael <span class=SpellE>DeBellevue</span>
-       </span></b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Erica
+       Hopkins </span></b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
        mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'>(co-advised
-       with Mark Walker) - PhD 2022<b><o:p></o:p></b></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'><a
-       href="https://sroshanzamir2.github.io/index.html">Shah Roshan Zamir</a> </span></b><span
-       style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-       "Times New Roman"'>-<b> </b><span style='mso-bidi-font-weight:bold'>Ben <span
-       class=SpellE>Carse</span> <span class=SpellE>Noltig</span> award
-       (2021-2022)<b><o:p></o:p></b></span></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'>Juliann Geraci </span></b><span
-       style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-       "Times New Roman"'>-<b> </b><span style='mso-bidi-font-weight:bold'>Don
-       Miller Outstanding GTA award (2022-2023)<b><o:p></o:p></b></span></span></li>
+       with Mark Walker) - PhD 2021<b><o:p></o:p></b></span></li>
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Michael
+       <span class=SpellE>DeBellevue</span> </span></b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
+       mso-bidi-font-weight:bold'>(co-advised with Mark Walker) - PhD 2022<b><o:p></o:p></b></span></li>
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><a
+       href="https://sroshanzamir2.github.io/index.html">Shah Roshan Zamir</a>
+       - </span></b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+       mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'>Ben
+       <span class=SpellE>Carse</span> <span class=SpellE>Noltig</span> award
+       (2021-2022)<b><o:p></o:p></b></span></li>
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Juliann
+       Geraci - </span></b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+       mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'>Don
+       Miller Outstanding GTA award (2022-2023)<b><o:p></o:p></b></span></li>
   </ul>
   <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Undergraduate
   students:<o:p></o:p></span></p>
   <ul type=disc>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'>Joey Becker</span></b><span
-       style='font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>
-       – </span><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'>Chair’s
-       prize for best graduating math major (2015)</span><span
-       style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'>Diana (<span class=SpellE>Xuehua</span>)
-       Zhong</span></b><span style='mso-fareast-font-family:"Times New Roman";
-       mso-bidi-font-weight:bold'> -</span><b style='mso-bidi-font-weight:normal'><span
-       style='mso-fareast-font-family:"Times New Roman"'> </span></b><span
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Joey
+       Becker</span></b><b><span style='font-family:"Verdana",sans-serif;
+       mso-fareast-font-family:"Times New Roman"'> – </span></b><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-       "Times New Roman";mso-bidi-font-weight:bold'>graduate student at North Carolina
-       State University (since 2018)</span><span style='mso-fareast-font-family:
+       "Times New Roman";mso-bidi-font-weight:bold'>Chair’s prize for best
+       graduating math major (2015)</span><span style='mso-fareast-font-family:
+       "Times New Roman"'><o:p></o:p></span></li>
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><b><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Diana
+       (<span class=SpellE>Xuehua</span>) Zhong</span></b><b style='mso-bidi-font-weight:
+       normal'><span style='mso-fareast-font-family:"Times New Roman"'> - </span></b><span
+       style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+       "Times New Roman";mso-bidi-font-weight:bold'>graduate student at North
+       Carolina State University (since 2018)</span><span style='mso-fareast-font-family:
        "Times New Roman"'><o:p></o:p></span></li>
   </ul>
   <h2><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-  "Times New Roman";mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></h2>
   <h2 style='text-align:justify'><span style='font-size:13.5pt;font-family:
   "Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Undergraduate
@@ -2437,8 +2458,8 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   href="https://geometrynyc.wixsite.com/polymathreu">Polymath <span
   style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-weight:
-  normal'>Jr</span> </a></b>programs of<b> </b>2020, 2021 and 2023. This
-  wonderful group of students produced four of the papers listed below.<o:p></o:p></span></p>
+  normal'>Jr</span> </a></b>programs of<b> </b>2020 and 2021. This wonderful
+  group of students produced four of the papers listed below.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-right:.1in'><span style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-weight:bold'>In April 2018 I organized the <b><a
@@ -2467,13 +2488,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <div>
-  <div class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  <div class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></div>
-  </div>
   </div>
   </div>
   </div>
@@ -2612,23 +2631,9 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Videos
   from Selected Talks</span><span style='font-size:13.5pt'><o:p></o:p></span></h2>
   <ul style='margin-top:0in' type=disc>
-   <li class=MsoNormal style='margin-top:0in;margin-bottom:0in;margin-top:5.0pt;
-       mso-margin-bottom-alt:5.0pt;mso-margin-top-alt:5.0pt;mso-add-space:auto;
-       line-height:12.0pt;mso-line-height-rule:exactly;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><strong><span style='font-size:9.0pt;font-family:
-       "Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Connected
-       sums of <span class=SpellE>artinian</span> <span class=SpellE>Gorenstein</span>
-       algebras and the <span class=SpellE>Lefschetz</span> property</span> (<a
-       href="https://youtu.be/18WOb7aSlFg"><span style='font-weight:normal'>video</span></a>)
-       </strong><i><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman"'>Fields Institute</span></i><strong>
-       </strong><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'>workshop
-       on <span class=SpellE>Lefschetz</span> Properties, May 2023<o:p></o:p></span></li>
-   <li class=MsoNormal style='margin-top:0in;margin-bottom:0in;margin-bottom:
-       0in;margin-top:0in;mso-margin-bottom-alt:5.0pt;mso-margin-top-alt:5.0pt;
-       mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:exactly;
-       mso-list:l3 level1 lfo3;tab-stops:list .5in'><strong><span
+   <li class=MsoNormalCxSpFirst style='margin-top:0in;margin-bottom:0in;
+       margin-bottom:.0001pt;mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:
+       exactly;mso-list:l4 level1 lfo3;tab-stops:list .5in'><strong><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman"'>R</span></strong><strong><span style='font-size:9.0pt;
        font-family:"Verdana",sans-serif'>eflection arrangements, syzygies, and
@@ -2643,14 +2648,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
        commutative algebra seminar</span><span style='font-size:9.0pt;
        font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>
        organized by MSRI, Jul 2020</span><b><o:p></o:p></b></li>
-   <li class=MsoNormal style='margin-top:0in;margin-bottom:0in;margin-bottom:
-       0in;margin-top:0in;mso-margin-bottom-alt:5.0pt;mso-margin-top-alt:5.0pt;
-       mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:exactly;
-       mso-list:l3 level1 lfo3;tab-stops:list .5in'><strong><span
-       style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-       "Times New Roman"'>Connected sums of graded <span class=SpellE>artinian</span>
-       <span class=SpellE>Gorenstein</span> algebras and the <span
-       class=SpellE>Lefschetz</span> properties</span> </strong><strong><span
+   <li class=MsoNormalCxSpMiddle style='margin-top:0in;margin-bottom:0in;
+       margin-bottom:.0001pt;mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:
+       exactly;mso-list:l4 level1 lfo3;tab-stops:list .5in'><strong>Connected
+       sums of graded <span class=SpellE>artinian</span> <span class=SpellE>Gorenstein</span>
+       algebras and the <span class=SpellE>Lefschetz</span> properties </strong><strong><span
        style='color:#C00000;font-weight:normal;mso-bidi-font-weight:bold'>(<a
        href="http://www.birs.ca/events/2018/5-day-workshops/18w5133/videos/watch/201806281730-Seceleanu.html"><span
        style='mso-bidi-font-weight:normal'>video</span></a>) </span></strong><i><span
@@ -2659,10 +2661,9 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
        Trends in Syzygies</span> </span></i><span style='font-size:9.0pt;
        font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
        mso-bidi-font-weight:bold'>in Banff, June 2018</span><strong><o:p></o:p></strong></li>
-   <li class=MsoNormal style='margin-top:0in;margin-bottom:0in;margin-bottom:
-       0in;margin-top:0in;mso-margin-bottom-alt:5.0pt;mso-margin-top-alt:5.0pt;
-       mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:exactly;
-       mso-list:l3 level1 lfo3;tab-stops:list .5in'><strong><span
+   <li class=MsoNormalCxSpMiddle style='margin-top:0in;margin-bottom:0in;
+       margin-bottom:.0001pt;mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:
+       exactly;mso-list:l4 level1 lfo3;tab-stops:list .5in'><strong><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman"'>Combinatorial methods for symbolic powers</span> </strong><strong><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
@@ -2674,10 +2675,9 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
        and Ordinary Powers of Ideals</span></i><span style='font-size:9.0pt;
        font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
        mso-bidi-font-weight:bold'> in Oaxaca, May 2017</span><strong><o:p></o:p></strong></li>
-   <li class=MsoNormal style='margin-top:0in;margin-bottom:0in;margin-bottom:
-       0in;margin-top:0in;mso-margin-bottom-alt:5.0pt;mso-margin-top-alt:5.0pt;
-       mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:exactly;
-       mso-list:l3 level1 lfo3;tab-stops:list .5in'><strong><span
+   <li class=MsoNormalCxSpMiddle style='margin-top:0in;margin-bottom:0in;
+       margin-bottom:.0001pt;mso-add-space:auto;line-height:12.0pt;mso-line-height-rule:
+       exactly;mso-list:l4 level1 lfo3;tab-stops:list .5in'><strong><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman"'>A hands-on approach to tensor product surfaces of
        bidegree (2,1)</span> </strong><strong><span style='font-size:9.0pt;
@@ -2711,13 +2711,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <div>
-  <div class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  <div class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></div>
-  </div>
   </div>
   </div>
   </div>
@@ -2826,38 +2824,17 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   in computational algebra, homological methods and connections to algebraic
   geometry.<o:p></o:p></span></b></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>1.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
-  href="https://arxiv.org/pdf/2308.03141.pdf">The minimal free resolution of a
-  general principal symmetric ideal</a></span></b></span><b style='mso-bidi-font-weight:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'> (with
-  M. Harada and L. Sega)</span></b></p>
-  <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
-  5.0pt;margin-left:.9in;text-align:justify'><span style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif'>We introduce the class of principal symmetric
-  ideals, which are ideals generated by the orbit of a single polynomial under
-  the action of the symmetric group. Fixing the degree of the generating
-  polynomial, this class of ideals is parametrized by points in a suitable
-  projective space. We show that the minimal free resolution of a principal
-  symmetric ideal is constant on a nonempty Zariski open subset of this
-  projective <span class=GramE>space</span> and we determine this resolution
-  explicitly.</span><o:p></o:p></span></p>
-  <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>2.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2208.11110.pdf">Duality for asymptotic invariants
-  of graded families</a></span></b></span><b><span style='font-family:Helvetica;
+  of graded families</a></span></b></span><b><span style='font-family:"Helvetica",sans-serif;
   color:#2D2D2D;background:white'> </span></b><b style='mso-bidi-font-weight:
   normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>(with
-  M. DiPasquale and T. Nguyen) Advances in Math. 430 (2023), paper no. 109208.</span><o:p></o:p></b></p>
+  M. DiPasquale and T. Nguyen) </span><o:p></o:p></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
   5.0pt;margin-left:.9in;text-align:justify'><span style='font-size:10.0pt;
   font-family:"Verdana",sans-serif'>The starting point of this paper is a
@@ -2870,15 +2847,15 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=MsoHyperlink><span style='color:windowtext;text-decoration:none;
   text-underline:none'><o:p></o:p></span></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>3.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2208.10476.pdf">The combinatorial structure of
   symmetric strongly shifted ideals</a></span></b></span><b><span
-  style='font-family:Helvetica;color:#2D2D2D;background:white'> </span></b><b
+  style='font-family:"Helvetica",sans-serif;color:#2D2D2D;background:white'> </span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
   "Verdana",sans-serif'>(with A</span></b>. <span class=SpellE><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
@@ -2895,15 +2872,15 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   polymatroids, convex geometry, and permutohedral <span class=SpellE>toric</span>
   varieties.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>4.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2208.05653.pdf">Lorentzian polynomial, higher
   Hessian and the Hodge-Riemann property of graded Artinian <span class=SpellE>Gorenstein</span>
-  algebras</a></span></b></span><b><span style='font-family:Helvetica;
+  algebras</a></span></b></span><b><span style='font-family:"Helvetica",sans-serif;
   color:#2D2D2D;background:white'> </span></b><b style='mso-bidi-font-weight:
   normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>(with
   P. Macias Marques, C. McDaniel, J. Watanabe)</span><o:p></o:p></b></p>
@@ -2913,15 +2890,15 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   algebras in codimension two that have the Hodge-Riemann property in terms of
   higher Hessian matrices and total positivity of certain Toeplitz matrices.</span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>5.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2208.04770.pdf">Polynomial growth of <span
   class=SpellE>Betti</span> sequences over local rings</a></span></b></span><b><span
-  style='font-family:Helvetica;color:#2D2D2D;background:white'> </span></b><b
+  style='font-family:"Helvetica",sans-serif;color:#2D2D2D;background:white'> </span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
   "Verdana",sans-serif'>(with L. <span class=SpellE>Avramov</span> and Y.
   Zheng)</span><o:p></o:p></b></p>
@@ -2934,12 +2911,13 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   the two polynomials agree and more generally give bounds on the degree of
   their difference.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black'><span style='mso-list:Ignore'>5.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2203.01258.pdf"><span class=SpellE>Lefschetz</span>
   properties of some codimension three Artinian <span class=SpellE>Gorenstein</span>
   algebras</a></span></b> </span><b style='mso-bidi-font-weight:normal'><span
@@ -2956,19 +2934,20 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   codimension three Artinian <span class=SpellE>Gorenstein</span> algebra A
   having low maximum value of the Hilbert function, at most six, satisfies the
   strong <span class=SpellE>Lefschetz</span> property provided that the
-  characteristic is zero. When the characteristic is greater than the socle
-  degree of A, we show that A is almost strong <span class=SpellE>Lefschetz</span>.
-  </span><span style='font-size:10.0pt'><o:p></o:p></span></p>
+  characteristic is zero. When the characteristic is greater than the <span
+  class=SpellE>socle</span> degree of A, we show that A is almost strong <span
+  class=SpellE>Lefschetz</span>. </span><span style='font-size:10.0pt'><o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black'><span style='mso-list:Ignore'>6.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2110.13782.pdf">Axial constants and sectional
   regularity of homogeneous ideals</a></span></b></span><b><span
-  style='font-family:Helvetica;color:#2D2D2D;background:white'> </span></b><b
+  style='font-family:"Helvetica",sans-serif;color:#2D2D2D;background:white'> </span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
   "Verdana",sans-serif'>(with Polymath) </span></b><b><i><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
@@ -2984,12 +2963,13 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   of the set of exponents of monomials in the reverse lexicographic generic
   initial ideal of I</span><span style='font-size:10.0pt'>.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black'><span style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black'><span style='mso-list:Ignore'>7.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2109.05065.pdf">Cohomological blow ups of graded <span
   class=SpellE>artinian</span> <span class=SpellE>Gorenstein</span> algebras
   along surjective maps</a></span></b></span><b style='mso-bidi-font-weight:
@@ -3014,12 +2994,12 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=SpellE>cohomology</span> ring of a blow up of a projective manifold
   along a projective submanifold.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>9.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2106.16185.pdf">Rees algebras of filtrations of
   covering <span class=SpellE>polyhedra</span> and integral closure of powers
   of monomial ideals</a> </span></b></span><b style='mso-bidi-font-weight:normal'><span
@@ -3033,38 +3013,38 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   5.0pt;margin-left:.9in;text-align:justify'><span style='font-size:10.0pt;
   font-family:"Verdana",sans-serif'>The aims of this work are to study Rees
   algebras of filtrations of monomial ideals associated to covering <span
-  class=SpellE>polyhedra</span> of rational matrices with non-negative entries
-  and non-zero columns using combinatorial optimization and integer
-  programming, and to study powers of monomial ideals and their integral
-  closures using irreducible decompositions and polyhedral geometry.</span></p>
+  class=SpellE>polyhedra</span> of rational matrices with non-negative entries and
+  non-zero columns using combinatorial optimization and integer programming,
+  and to study powers of monomial ideals and their integral closures using
+  irreducible decompositions and polyhedral geometry.</span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>10.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Computing real
-  powers of <a href="https://arxiv.org/pdf/2101.10462.pdf">monomial</a> ideals</span></b></span><b><span
-  style='font-family:Helvetica;color:#2D2D2D;background:white'> </span></b><b
-  style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
-  "Verdana",sans-serif'>(with Polymath) </span></b><b><i><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-  "Times New Roman"'>J. Symbolic <span class=SpellE>Comput</span>. </span></i></b><b><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-style:italic'>116 (2023) 39-57</span></b><b
-  style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=MsoHyperlink><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Computing
+  real powers of <a href="https://arxiv.org/pdf/2101.10462.pdf">monomial</a>
+  ideals</span></b></span><b><span style='font-family:"Helvetica",sans-serif;
+  color:#2D2D2D;background:white'> </span></b><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>(with
+  Polymath) </span></b><b><i><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'>J. Symbolic <span class=SpellE>Comput</span>.
+  </span></i></b><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-style:italic'>116
+  (2023) 39-57</span></b><b style='mso-bidi-font-weight:normal'><o:p></o:p></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
   5.0pt;margin-left:.9in;text-align:justify'><span style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif'>While it is customary for the exponentiation
-  operation on ideals to consider natural powers, we extend this notion to
-  powers where the exponent is a positive real number. Real powers of a
-  monomial ideal generalize the integral closure operation and highlight many
+  font-family:"Verdana",sans-serif'>While it is customary for the
+  exponentiation operation on ideals to consider natural powers, we extend this
+  notion to powers where the exponent is a positive real number. Real powers of
+  a monomial ideal generalize the integral closure operation and highlight many
   interesting connections to the theory of convex polytopes.</span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>11.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2101.04010.pdf">Consequences of the packing
@@ -3082,10 +3062,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   problem is currently unresolved, we successfully settle the validity of its
   consequences.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>12.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>11.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2101.04008.pdf">Convex bodies and asymptotic
@@ -3108,19 +3088,20 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   decompositions, we introduce a novel family of irreducible powers which
   generalizes the notions of ordinary and symbolic powers.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span class=MsoHyperlink><u
-  style='text-underline:black'><span style='mso-fareast-font-family:"Times New Roman";
-  color:black;text-underline:black;text-decoration:none;text-underline:none'><span
-  style='mso-list:Ignore'>13.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span></u></span><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Symbolic <a
-  href="https://arxiv.org/pdf/2012.01617.pdf">Rees</a> algebras </span></b></span><b
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  class=MsoHyperlink><u style='text-underline:black'><span style='mso-fareast-font-family:
+  "Times New Roman";color:black;text-underline:black;text-decoration:none;
+  text-underline:none'><span style='mso-list:Ignore'>12.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+  </span></span></span></u></span><![endif]><span class=MsoHyperlink><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
-  "Verdana",sans-serif'>(with E. <span class=SpellE>Grifo</span>) </span></b><b
-  style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
-  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-  "Times New Roman";mso-ansi-language:EN'>a chapter in the volume</span></i></b><b
+  "Verdana",sans-serif'>Symbolic <a href="https://arxiv.org/pdf/2012.01617.pdf">Rees</a>
+  algebras </span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'>(with E. <span
+  class=SpellE>Grifo</span>) </span></b><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span lang=EN style='font-size:9.0pt;
+  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
+  mso-ansi-language:EN'>a chapter in the volume</span></i></b><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-ansi-language:EN'> </span></b><b
   style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
@@ -3136,10 +3117,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   a source of challenging problems in its own right. We provide an invitation
   to this area of investigation by stating several open questions.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>14.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>13.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/pdf/2011.12409.pdf">Canonical resolutions over <span
@@ -3164,16 +3145,16 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=MsoHyperlink><span style='color:windowtext;text-decoration:none;
   text-underline:none'><o:p></o:p></span></span></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>15.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>14.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Quadratic <span
   class=SpellE>Gorenstein</span> algebras with many surprising properties </span></b></span><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
   "Verdana",sans-serif'>(with J. McCullough)</span></b><span style='font-size:
-  10.5pt;font-family:Helvetica;color:#333333;background:white'> </span><b
+  10.5pt;font-family:"Helvetica",sans-serif;color:#333333;background:white'> </span><b
   style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Arch. Math. (Basel)
   115 (2020), no. 5, 509-521</span></i><o:p></o:p></b></p>
@@ -3185,39 +3166,41 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   subadditivity property for degree of syzygies and fail to satisfy the <span
   class=SpellE>Lefschetz</span> property.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>16.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>15.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Singular loci of
   reflection arrangements and the containment problem </span></b></span><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
   "Verdana",sans-serif'>(with B. <span class=SpellE>Drabkin</span>)</span></b><span
-  style='font-size:10.5pt;font-family:Helvetica;color:#333333;background:white'>
-  </span><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Math. <span
-  class=SpellE>Zeitschrift</span> 299 (2021), no. 1-2, 867-895</span></i><o:p></o:p></b></p>
+  style='font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#333333;
+  background:white'> </span><b style='mso-bidi-font-weight:normal'><i
+  style='mso-bidi-font-style:normal'><span style='font-size:9.0pt;font-family:
+  "Verdana",sans-serif'>Math. <span class=SpellE>Zeitschrift</span> 299 (2021),
+  no. 1-2, 867-895</span></i><o:p></o:p></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
   5.0pt;margin-left:.9in;text-align:justify'><span style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif'>We paper provide insights into the role of symmetry
-  in studying polynomial functions vanishing to high order on an algebraic
-  variety. The varieties we study are singular loci of hyperplane arrangements
-  in projective space, with emphasis on arrangements arising from complex
-  reflection groups. We provide minimal sets of equations for the radical
-  ideals defining these singular loci and study containments between the
-  ordinary and symbolic powers of these ideals</span>.<span class=MsoHyperlink><span
-  style='color:windowtext;text-decoration:none;text-underline:none'><o:p></o:p></span></span></p>
+  font-family:"Verdana",sans-serif'>We paper provide insights into the role of
+  symmetry in studying polynomial functions vanishing to high order on an
+  algebraic variety. The varieties we study are singular loci of hyperplane
+  arrangements in projective space, with emphasis on arrangements arising from
+  complex reflection groups. We provide minimal sets of equations for the
+  radical ideals defining these singular loci and study containments between
+  the ordinary and symbolic powers of these ideals</span>.<span
+  class=MsoHyperlink><span style='color:windowtext;text-decoration:none;
+  text-underline:none'><o:p></o:p></span></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><i style='mso-bidi-font-style:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-  mso-fareast-font-family:Verdana;mso-bidi-font-family:Verdana;color:black'><span
-  style='mso-list:Ignore'>17.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span></i><![endif]><span
-  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
-  href="https://arxiv.org/pdf/1908.02086.pdf">Implicitization of tensor product
-  surfaces via virtual projective resolutions</a></span></b></span><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  style='mso-bidi-font-style:normal'><span style='font-size:9.0pt;font-family:
+  "Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
+  Verdana;color:black'><span style='mso-list:Ignore'>16.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+  </span></span></span></i><![endif]><span class=MsoHyperlink><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
+  "Verdana",sans-serif'><a href="https://arxiv.org/pdf/1908.02086.pdf">Implicitization
+  of tensor product surfaces via virtual projective resolutions</a></span></b></span><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;color:windowtext;
   text-decoration:none;text-underline:none'> </span></b></span><b
@@ -3233,15 +3216,16 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   parametrization by means of constructing an explicit virtual projective
   resolution.</span><span style='font-size:10.0pt'><o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span class=MsoHyperlink><u
-  style='text-underline:black'><span style='font-size:9.0pt;mso-fareast-font-family:
-  "Times New Roman";color:black;text-underline:black;text-decoration:none;
-  text-underline:none'><span style='mso-list:Ignore'>18.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-  </span></span></span></u></span><![endif]><span class=MsoHyperlink><b
-  style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
-  "Verdana",sans-serif'><a href="https://arxiv.org/pdf/1907.04288.pdf"><span
-  class=SpellE>Betti</span> numbers of symmetric shifted ideals</a></span></b></span><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  class=MsoHyperlink><u style='text-underline:black'><span style='font-size:
+  9.0pt;mso-fareast-font-family:"Times New Roman";color:black;text-underline:
+  black;text-decoration:none;text-underline:none'><span style='mso-list:Ignore'>17.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></u></span><![endif]><span
+  class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
+  href="https://arxiv.org/pdf/1907.04288.pdf"><span class=SpellE>Betti</span>
+  numbers of symmetric shifted ideals</a></span></b></span><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;color:windowtext;
   text-decoration:none;text-underline:none'> </span></b></span><b
@@ -3265,15 +3249,16 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   numbers of symbolic powers of defining ideals of star configurations.</span><span
   style='font-size:10.0pt'><o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black'><span style='mso-list:Ignore'>19.<span style='font:7.0pt "Times New Roman"'>&nbsp;
-  </span></span></span><![endif]><span class=MsoHyperlink><b><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-  "Times New Roman"'><a href="https://arxiv.org/pdf/1904.06297.pdf">Connected
-  sums of graded <span class=SpellE>artinian</span> <span class=SpellE>Gorenstein</span>
-  algebras and <span class=SpellE>Lefschetz</span> properties</a></span></b></span><span
+  Verdana;mso-bidi-font-family:Verdana;color:black'><span style='mso-list:Ignore'>18.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  class=MsoHyperlink><b><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+  mso-fareast-font-family:"Times New Roman"'><a
+  href="https://arxiv.org/pdf/1904.06297.pdf">Connected sums of graded <span
+  class=SpellE>artinian</span> <span class=SpellE>Gorenstein</span> algebras
+  and <span class=SpellE>Lefschetz</span> properties</a></span></b></span><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'> </span></b></span><b
   style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;font-family:
@@ -3298,10 +3283,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   the weak or strong <span class=SpellE>Lefschetz</span> property.</span><span
   lang=EN style='font-family:"Verdana",sans-serif;mso-ansi-language:EN'><o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-top:12.0pt;margin-right:
-  22.3pt;margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:
-  -.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black'><span style='mso-list:Ignore'>20.<span
+  22.3pt;margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:
+  auto;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black'><span style='mso-list:Ignore'>19.<span
   style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
@@ -3312,10 +3297,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <span class=SpellE>Toh&#259;neanu</span>, M. <span class=SpellE>Vaz</span>
   Pinto and R. Villarreal), <o:p></o:p></span></b></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:40.3pt;mso-add-space:auto'><b style='mso-bidi-font-weight:
-  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif'>Advances in Applied Mathematics 112 (2020)
-  101940<o:p></o:p></span></i></b></p>
+  margin-bottom:0in;margin-left:40.3pt;margin-bottom:.0001pt;mso-add-space:
+  auto'><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
+  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Advances
+  in Applied Mathematics 112 (2020) 101940<o:p></o:p></span></i></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
   5.0pt;margin-left:.9in;text-align:justify'><span lang=EN style='font-size:
   10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>Motivated by
@@ -3334,10 +3319,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=SpellE>Eisenbud</span>-Green-Harris.</span><span lang=EN
   style='font-size:10.0pt;mso-ansi-language:EN'><o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>21.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>20.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif'><a
   href="https://arxiv.org/abs/1803.08459">Frieze varieties: A characterization
@@ -3362,10 +3347,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=MsoHyperlink><span style='color:windowtext;text-decoration:none;
   text-underline:none'><o:p></o:p></span></span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-top:12.0pt;margin-right:
-  22.3pt;margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:
-  -.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span style='mso-fareast-font-family:
-  "Times New Roman";color:black'><span style='mso-list:Ignore'>22.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  22.3pt;margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:
+  auto;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  style='mso-fareast-font-family:"Times New Roman";color:black'><span
+  style='mso-list:Ignore'>21.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
   EN'><a href="https://arxiv.org/pdf/1712.01440.pdf">Computations involving
@@ -3380,10 +3365,10 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   href="https://github.com/eloisagrifo/SymbolicPowers"><span class=SpellE>SymbolicPowers</span></a>
   </b></span></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.9in;mso-add-space:auto'><b style='mso-bidi-font-weight:
-  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif'>J. Software for Algebra and Geometry vol.
-  9, no.1 (2019), 71–80</span></i></b></p>
+  margin-bottom:0in;margin-left:.9in;margin-bottom:.0001pt;mso-add-space:auto'><b
+  style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'>J. Software for
+  Algebra and Geometry vol. 9, no.1 (2019), 71–80</span></i></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
   5.0pt;margin-left:.9in;text-align:justify'><span lang=EN style='font-size:
   10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>Symbolic powers
@@ -3396,11 +3381,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   computations of symbolic powers of ideals and which can be used to study the
   equality and containment problems, among others.<o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-top:5.0pt;margin-right:66.95pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
   class=MsoHyperlink><u style='text-underline:black'><span style='mso-fareast-font-family:
   "Times New Roman";color:black;text-underline:black;text-decoration:none;
-  text-underline:none'><span style='mso-list:Ignore'>23.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+  text-underline:none'><span style='mso-list:Ignore'>22.<span style='font:7.0pt "Times New Roman"'>&nbsp;
   </span></span></span></u></span><![endif]><span class=MsoHyperlink><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-ansi-language:EN;text-decoration:none;
@@ -3410,21 +3395,22 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=MsoHyperlink><span style='color:windowtext;text-decoration:none;
   text-underline:none'><o:p></o:p></span></span></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:64.5pt;mso-add-space:auto'><b style='mso-bidi-font-weight:
-  normal'><span lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-  mso-ansi-language:EN'>(with Th. Bauer, S. Di Rocco, B. <span class=SpellE>Harbourne</span>,
-  J. Huizenga, T. <span class=SpellE>Szemberg</span>) <i style='mso-bidi-font-style:
-  normal'>International Math. Research Notices</i></span></b><span lang=EN
-  style='font-size:8.0pt;color:#3D464D;background:#F7F9FA;mso-ansi-language:
-  EN'> </span><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
-  normal'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif'>IMRN
-  2019, no. 24, 7459-7514</span></i></b></p>
+  margin-bottom:0in;margin-left:64.5pt;margin-bottom:.0001pt;mso-add-space:
+  auto'><b style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:
+  9.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>(with Th. Bauer,
+  S. Di Rocco, B. <span class=SpellE>Harbourne</span>, J. Huizenga, T. <span
+  class=SpellE>Szemberg</span>) <i style='mso-bidi-font-style:normal'>International
+  Math. Research Notices</i></span></b><span lang=EN style='font-size:8.0pt;
+  color:#3D464D;background:#F7F9FA;mso-ansi-language:EN'> </span><b
+  style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'>IMRN 2019, no. 24,
+  7459-7514</span></i></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:66.95pt;margin-bottom:
   5.0pt;margin-left:.9in;text-align:justify'><span lang=EN style='font-size:
   10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>In this paper
-  we study the surface X obtained by blowing up the projective plane in the singular
-  points of one of two highly symmetric line configurations known as the Klein
-  configuration and the <span class=SpellE>Wiman</span> configuration
+  we study the surface X obtained by blowing up the projective plane in the
+  singular points of one of two highly symmetric line configurations known as
+  the Klein configuration and the <span class=SpellE>Wiman</span> configuration
   respectively. We study invariant curves on X in detail, with a particular
   emphasis on curves of negative self-intersection. We use the representation
   theory of the stabilizers of the singular points to discover several
@@ -3432,11 +3418,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   study Nagata-type questions for linear series on X.</span><span
   style='font-size:10.0pt'><o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-top:12.0pt;margin-right:
-  0in;margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
-  style='mso-list:Ignore'>24.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+  0in;margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:
+  auto;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
+  style='mso-list:Ignore'>23.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
   class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
   EN;text-decoration:none;text-underline:none'><a
@@ -3448,25 +3434,26 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   J. <span class=SpellE>Migliore</span>, U. Nagel, J. <span class=SpellE>Szpond</span>,
   A. Van <span class=SpellE>Tuyl</span>) <u><span style='color:#C60202'><o:p></o:p></span></u></span></b></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:22.3pt;
-  margin-bottom:0in;margin-left:.9in;mso-add-space:auto'><b style='mso-bidi-font-weight:
-  normal'><i style='mso-bidi-font-style:normal'><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif'>Comm. Algebra 48 (2020), no.11, 4663-4680</span></i></b><i
-  style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
+  margin-bottom:0in;margin-left:.9in;margin-bottom:.0001pt;mso-add-space:auto'><b
+  style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif'>Comm. Algebra 48
+  (2020), no.11, 4663-4680</span></i></b><i style='mso-bidi-font-style:normal'><o:p></o:p></i></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:67.3pt;margin-bottom:
   5.0pt;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
   10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>Under the
   additional hypothesis that X is a local complete intersection, we classify
   when I(X)^(m) = I(X)^m for all m &gt;= 1. The key tool to prove this
-  classification is the ability to construct a graded minimal free resolution of
-  <span class=SpellE>I^m</span> under these hypotheses. Among our applications
-  are significantly simplified proofs for known results about symbolic powers
-  of ideals of points in P^1 x P^1.</span><span style='font-size:10.0pt'><o:p></o:p></span></p>
+  classification is the ability to construct a graded minimal free resolution
+  of <span class=SpellE>I^m</span> under these hypotheses. Among our
+  applications are significantly simplified proofs for known results about
+  symbolic powers of ideals of points in P^1 x P^1.</span><span
+  style='font-size:10.0pt'><o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:0in;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
-  style='mso-list:Ignore'>25.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
+  style='mso-list:Ignore'>24.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-ansi-language:EN'><a
   href="http://arxiv.org/abs/1508.00477">The <span class=SpellE>Waldschmidt</span>
@@ -3493,11 +3480,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   class=SpellE>Hoefel</span> for monomial ideals in the <span class=SpellE>squarefree</span>
   case.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:0in;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
-  style='mso-list:Ignore'>26.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
+  style='mso-list:Ignore'>25.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><a href="https://arxiv.org/pdf/1509.04977.pdf">Ordinary
@@ -3512,11 +3499,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   ideals. We show that the symbolic Rees algebras of Fermat ideals are
   Noetherian.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:0in;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
-  style='mso-list:Ignore'>27.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
+  style='mso-list:Ignore'>26.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><a href="http://arxiv.org/abs/1410.0312">A homological
@@ -3526,8 +3513,8 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:67.3pt;margin-bottom:
   5.0pt;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
   10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We establish a
-  criterion for the failure of the containment of the symbolic cube in the square
-  for 3-generated ideals I defining reduced sets of points in P^2. Our
+  criterion for the failure of the containment of the symbolic cube in the
+  square for 3-generated ideals I defining reduced sets of points in P^2. Our
   criterion arises from studying the minimal free resolutions of the powers of
   I, specifically the minimal free resolutions for I^2 and I^3. We apply this
   criterion to <span class=GramE>two point</span> configurations that have
@@ -3537,22 +3524,22 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman";mso-ansi-language:EN'><o:p></o:p></span></b></p>
   <p class=MsoListParagraphCxSpFirst style='margin-top:12.0pt;margin-right:
-  0in;margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
-  style='mso-list:Ignore'>28.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+  0in;margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:
+  auto;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
+  style='mso-list:Ignore'>27.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><a href="http://arxiv.org/abs/1408.2136">Determinants
   of incidence and Hessian matrices arising from the vector space lattice</a>
   (with S. <span class=SpellE>Nasseh</span> and J. Watanabe) <o:p></o:p></span></b></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:64.5pt;mso-add-space:auto'><b style='mso-bidi-font-weight:
-  normal'><i style='mso-bidi-font-style:normal'><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-ansi-language:EN'>J. <span class=SpellE>Commut</span>. Algebra 11 (2019)
-  no. 1, 131-154<o:p></o:p></span></i></b></p>
+  margin-bottom:0in;margin-left:64.5pt;margin-bottom:.0001pt;mso-add-space:
+  auto'><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
+  normal'><span lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;
+  mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN'>J. <span
+  class=SpellE>Commut</span>. Algebra 11 (2019) no. 1, 131-154<o:p></o:p></span></i></b></p>
   <p class=MsoNormal style='margin-top:5.0pt;margin-right:67.3pt;margin-bottom:
   5.0pt;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
   10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We give
@@ -3563,11 +3550,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   naturally in the study of the combinatorial and algebraic <span class=SpellE>Lefschetz</span>
   properties.<o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-top:12.0pt;margin-right:
-  0in;margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  mso-list:l5 level1 lfo7'><![if !supportLists]><span lang=EN style='font-size:
-  9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;
-  mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
-  style='mso-list:Ignore'>29.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
+  0in;margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:
+  auto;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  lang=EN style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  Verdana;mso-bidi-font-family:Verdana;color:black;mso-ansi-language:EN'><span
+  style='mso-list:Ignore'>28.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-ansi-language:EN'><a
   href="http://arxiv.org/abs/1404.4957">Resurgences for ideals of special point
@@ -3576,8 +3563,8 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><o:p></o:p></span></b></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:64.5pt;mso-add-space:auto'><span
-  class=descriptor><b style='mso-bidi-font-weight:normal'>(with</b></span><b
+  margin-bottom:0in;margin-left:64.5pt;margin-bottom:.0001pt;mso-add-space:
+  auto'><span class=descriptor><b style='mso-bidi-font-weight:normal'>(with</b></span><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-ansi-language:EN'> M. <span
   class=SpellE>Dumnicki</span>, B. <span class=SpellE>Harbourne</span>, U.
@@ -3596,16 +3583,16 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   mso-bidi-font-family:"Cambria Math"'>&#8838;</span></span> <span
   class=SpellE>I^r</span> should hold for the ideal I of any finite set of
   points in P^N for all r&gt;0, but in the last year various counterexamples
-  have now been constructed, all involving point sets coming from hyperplane
-  arrangements. In the present work, we compute their resurgences and obtain in
-  particular the first examples where the resurgence and the asymptotic
-  resurgence are not equal.<o:p></o:p></span></p>
+  have now been constructed, all involving point sets coming from hyperplane arrangements.
+  In the present work, we compute their resurgences and obtain in particular
+  the first examples where the resurgence and the asymptotic resurgence are not
+  equal.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:5.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>30.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>29.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b
   style='mso-bidi-font-weight:normal'><span lang=EN style='font-size:9.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
@@ -3625,24 +3612,24 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   "Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";mso-ansi-language:
   EN'> <span lang=EN><o:p></o:p></span></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><b><i><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>J.
-  Pure Appl. Algebra 222 (2018) no. 9, 2524-2551</span></i></b><i
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><b><i><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>J. Pure Appl. Algebra 222 (2018) no. 9, 2524-2551</span></i></b><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>Motivated by a
-  question posed by Mike Stillman, we show that the projective dimension of an
-  ideal generated by four quadric forms in a polynomial ring has projective
-  dimension at most 6.<o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>Motivated by a question posed by Mike <span class=SpellE>Stillman</span>,
+  we show that the projective dimension of an ideal generated by four quadric
+  forms in a polynomial ring has projective dimension at most 6.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:5.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>31.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>30.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><span
   class=MsoHyperlink><span style='mso-bidi-font-weight:bold'><a
   href="http://arxiv.org/abs/1401.6216"><b><span style='font-size:9.0pt;
@@ -3675,11 +3662,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   property. Applications to quasi-<span class=SpellE>Gorenstein</span> rings
   and almost complete intersection ideals are given.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:5.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>32.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>31.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1306.3668">Containment
@@ -3689,19 +3676,20 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman";mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:66.95pt;margin-bottom:
-  0in;margin-left:.9in;text-align:justify'><span lang=EN style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We provide
-  counterexamples to a conjecture of <span class=SpellE>Harbourne</span> and <span
-  class=SpellE>Huneke</span> regarding containments between regular powers and
-  symbolic powers of ideals of points in projective space P^N. We show that the
-  conjecture fails in every prime characteristic p&gt;2 when N=2 and we provide
-  additional counterexamples for higher dimensional projective spaces.<o:p></o:p></span></p>
+  0in;margin-left:.9in;margin-bottom:.0001pt;text-align:justify'><span lang=EN
+  style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>We provide counterexamples to a conjecture of <span class=SpellE>Harbourne</span>
+  and <span class=SpellE>Huneke</span> regarding containments between regular
+  powers and symbolic powers of ideals of points in projective space P^N. We
+  show that the conjecture fails in every prime characteristic p&gt;2 when N=2
+  and we provide additional counterexamples for higher dimensional projective
+  spaces.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:5.0pt;margin-right:44.8pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   Verdana;mso-bidi-font-family:Verdana;color:black;mso-bidi-font-weight:bold'><span
-  style='mso-list:Ignore'>33.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
+  style='mso-list:Ignore'>32.<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1304.0745">The projective
   dimension of codimension two algebra presented by quadrics</a> (with C. <span
@@ -3709,17 +3697,17 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   McCullough) <i style='mso-bidi-font-style:normal'>J. Algebra 393 (2013),
   170-186</i><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We prove a
-  sharp upper bound for the projective dimension of ideals of height two
-  generated by quadrics in a polynomial ring with arbitrary large number of
-  variables<i style='mso-bidi-font-style:normal'>. <o:p></o:p></i></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>We prove a sharp upper bound for the projective dimension of ideals of
+  height two generated by quadrics in a polynomial ring with arbitrary large
+  number of variables<i style='mso-bidi-font-style:normal'>. <o:p></o:p></i></span></p>
   <p class=MsoListParagraph style='margin-top:5.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>34.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>33.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1301.4147">Multiple
@@ -3736,45 +3724,46 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We show that no
-  finite characterization of multiple structures on linear spaces is possible
-  by constructing structures with arbitrarily large projective dimension. Our
-  methods build upon a family of ideals with large projective dimension using
-  linkage. The result is in stark contrast to <span class=SpellE>Manolache's</span>
-  characterization of Cohen-Macaulay multiple structures in codimension 2 and
-  multiplicity at most 4 and also to <span class=SpellE>Engheta's</span> characterization
-  of unmixed ideals of height 2 and multiplicity 2.<o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>We show that no finite characterization of multiple structures on linear spaces
+  is possible by constructing structures with arbitrarily large projective
+  dimension. Our methods build upon a family of ideals with large projective
+  dimension using linkage. The result is in stark contrast to <span
+  class=SpellE>Manolache's</span> characterization of Cohen-Macaulay multiple
+  structures in codimension 2 and multiplicity at most 4 and also to <span
+  class=SpellE>Engheta's</span> characterization of unmixed ideals of height 2
+  and multiplicity 2.<o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>35.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>34.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1205.4190" target="_blank">Computations
-  in intersection rings of flag bundles</a> (with D. Grayson and M. Stillman) </span></b><i
-  style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-ansi-language:EN'><o:p></o:p></span></i></p>
+  in intersection rings of flag bundles</a> (with D. Grayson and M. <span
+  class=SpellE>Stillman</span>) </span></b><i style='mso-bidi-font-style:normal'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>This paper
-  arose out of an observation that was made while I was working on the
-  Symmetric polynomials package for Macaulay2. Intersection rings of flag
-  varieties and of isotropic flag varieties are generated by <span
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>This paper arose out of an observation that was made while I was working
+  on the Symmetric polynomials package for Macaulay2. Intersection rings of
+  flag varieties and of isotropic flag varieties are generated by <span
   class=SpellE>Chern</span> classes of the tautological bundles modulo the
   relations coming from multiplicativity of total <span class=SpellE>Chern</span>
   classes. In this paper we describe the <span class=SpellE>Groebner</span>
   bases of the ideals of relations and give applications to computation of
   intersections, as implemented in Macaulay2. <o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>36.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>35.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="research/BoundingProjectiveDimension.pdf">Bounding
@@ -3784,20 +3773,21 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman";mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>The celebrated
-  Hilbert Syzygy Theorem states that the projective dimension of any ideal in a
-  polynomial ring on n variables is at most n-1. This paper surveys recent
-  progress on Stillman’s question, asking whether the degrees of a set of
-  homogeneous polynomials suffice in order to bound the projective dimension of
-  the ideal they generate, without prior knowledge of the ambient polynomial
-  ring (hence without using the number of variables). <o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>The celebrated Hilbert Syzygy Theorem states that the projective
+  dimension of any ideal in a polynomial ring on n variables is at most n-1.
+  This paper surveys recent progress on <span class=SpellE>Stillman’s</span>
+  question, asking whether the degrees of a set of homogeneous polynomials
+  suffice in order to bound the projective dimension of the ideal they
+  generate, without prior knowledge of the ambient polynomial ring (hence
+  without using the number of variables). <o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>37.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>36.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1211.1648">Syzygies and
@@ -3807,22 +3797,23 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   normal'><span lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;
   mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We study the
-  associated ideal of a bigraded parametrization of a surface in P^3 from the
-  standpoint of commutative algebra, proving that there are exactly six
-  numerical types of possible bigraded minimal free resolution. These
-  resolutions play a key role in determining the implicit equation of the
-  image, via work of Buse-<span class=SpellE>Jouanolou</span>, Buse-Chardin, <span
-  class=SpellE>Botbol</span> and <span class=SpellE>Botbol-Dickenstein-Dohm</span>
-  on the approximation complex. In particular this allows us to completely
-  describe the implicit equation and singular locus of the image. <o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>We study the associated ideal of a bigraded parametrization of a surface
+  in P^3 from the standpoint of commutative algebra, proving that there are
+  exactly six numerical types of possible bigraded minimal free resolution.
+  These resolutions play a key role in determining the implicit equation of the
+  image, via work of <span class=SpellE>Buse-Jouanolou</span>, <span
+  class=SpellE>Buse</span>-Chardin, <span class=SpellE>Botbol</span> and <span
+  class=SpellE>Botbol-Dickenstein-Dohm</span> on the approximation complex. In
+  particular this allows us to completely describe the implicit equation and
+  singular locus of the image. <o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>38.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>37.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1106.3663" target="_blank">Syzygy
@@ -3832,22 +3823,22 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We introduce a
-  weak order ideal property that suffices for establishing the Evans-Griffith
-  Syzygy Theorem. We study this weak order ideal property in settings that
-  allow for comparison between homological algebra over a local ring R versus a
-  hypersurface ring R/(<span class=SpellE>x^n</span>). Consequently, we solve
-  some relevant cases of the Evans-Griffith syzygy conjecture over local rings
-  of unramified mixed characteristic p, with the case of syzygies of prime
-  ideals of Cohen-Macaulay local rings of unramified mixed characteristic being
-  noted. <o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>We introduce a weak order ideal property that suffices for establishing
+  the Evans-Griffith Syzygy Theorem. We study this weak order ideal property in
+  settings that allow for comparison between homological algebra over a local
+  ring R versus a hypersurface ring R/(<span class=SpellE>x^n</span>). <span
+  class=GramE>Consequently</span> we solve some relevant cases of the
+  Evans-Griffith syzygy conjecture over local rings of unramified mixed
+  characteristic p, with the case of syzygies of prime ideals of Cohen-Macaulay
+  local rings of unramified mixed characteristic being noted. <o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>39.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>38.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1008.2377" target="_blank">Inverse
@@ -3858,18 +3849,18 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>We use the
-  inverse system dictionary to connect ideals generated by powers of linear
-  forms to ideals of fat points and show that failure of WLP for powers of
-  linear forms in at least four variables is connected to the geometry of the
-  associated fat point scheme. <o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>We use the inverse system dictionary to connect ideals generated by
+  powers of linear forms to ideals of fat points and show that failure of WLP
+  for powers of linear forms in at least four variables is connected to the
+  geometry of the associated fat point scheme. <o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>40.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>39.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/1101.3368" target="_blank">Ideals
@@ -3886,30 +3877,30 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
   mso-ansi-language:EN'><o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:64.5pt;text-align:justify'><span lang=EN style='font-size:
-  10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:EN'>This paper is
-  an outcome of the Mathematical Research Communities program. I am grateful to
-  AMS and the organizers for this wonderful opportunity. We define a family of
-  homogeneous ideals with large projective dimension and regularity relative to
-  the number of generators and their common degree. This family subsumes and
-  improves upon constructions given by <span class=SpellE>Caviglia</span> and
-  McCullough <span class=GramE>In</span> particular, we describe a family of
-  homogeneous ideals with three generators of degree d in arbitrary
-  characteristic whose projective dimension grows asymptotically an exponential
-  function in d.<o:p></o:p></span></p>
+  0in;margin-left:64.5pt;margin-bottom:.0001pt;text-align:justify'><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-ansi-language:
+  EN'>This paper is an outcome of the Mathematical Research Communities
+  program. I am grateful to AMS and the organizers for this wonderful
+  opportunity. We define a family of homogeneous ideals with large projective
+  dimension and regularity relative to the number of generators and their
+  common degree. This family subsumes and improves upon constructions given by <span
+  class=SpellE>Caviglia</span> and McCullough <span class=GramE>In</span>
+  particular, we describe a family of homogeneous ideals with three generators
+  of degree d in arbitrary characteristic whose projective dimension grows
+  asymptotically an exponential function in d.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-top:0in;margin-right:67.3pt;margin-bottom:
-  0in;margin-left:.9in;text-align:justify'><span style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-weight:bold'>Here is the <a href="code/BigIdeals.m2">Macaulay 2
-  code</a> mentioned in the paper.</span><span lang=EN style='font-size:10.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-ansi-language:EN'><o:p></o:p></span></p>
+  0in;margin-left:.9in;margin-bottom:.0001pt;text-align:justify'><span
+  style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-weight:bold'>Here is the <a
+  href="code/BigIdeals.m2">Macaulay 2 code</a> mentioned in the paper.</span><span
+  lang=EN style='font-size:10.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman";mso-ansi-language:EN'><o:p></o:p></span></p>
   <p class=MsoListParagraph style='margin-top:12.0pt;margin-right:67.3pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-align:justify;
-  text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
+  margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;mso-add-space:auto;
+  text-align:justify;text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:10.0pt;
   font-family:"Verdana",sans-serif;mso-fareast-font-family:Verdana;mso-bidi-font-family:
-  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>41.<span
+  Verdana;color:black;mso-ansi-language:EN'><span style='mso-list:Ignore'>40.<span
   style='font:7.0pt "Times New Roman"'> </span></span></span></i><![endif]><b><span
   style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
   "Times New Roman"'><a href="http://arxiv.org/abs/0911.0876" target="_blank">The
@@ -3952,7 +3943,7 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <p class=MsoNormal style='margin:0in'><!--[if gte vml 1]><o:wrapblock><v:shape
+  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><!--[if gte vml 1]><o:wrapblock><v:shape
     id="Picture_x0020_4" o:spid="_x0000_s1029" type="#_x0000_t75" alt="back to top"
     href="#top" style='position:absolute;margin-left:22in;margin-top:1.25pt;
     width:15.1pt;height:15.1pt;z-index:251658240;visibility:visible;
@@ -3980,14 +3971,15 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
    </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
    <table cellpadding=0 cellspacing=0 align=left>
     <tr>
-     <td width=1715 height=0></td>
+     <td width=2112 height=0></td>
     </tr>
     <tr>
      <td></td>
      <td><map name=MicrosoftOfficeMap0><area shape=Rect
-     coords="0, 0, 16, 15" href="#top" title=""><area shape=Rect
-     coords="0, 0, 16, 15" href="#top" title=""></map><img border=0 width=16
-     height=15 v:shapes="Picture_x0020_4 _x0000_s1028"></td>
+     coords="0, 0, 20, 20" href="#top" title=""><area shape=Rect
+     coords="0, 0, 20, 20" href="#top" title=""></map><img border=0 width=20
+     height=20 src="index_files/image002.gif" usemap="#MicrosoftOfficeMap0"
+     alt="back to top,back to top" v:shapes="Picture_x0020_4 _x0000_s1028"></td>
     </tr>
    </table>
    </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
@@ -4074,13 +4066,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <div>
-  <div class=MsoNormal style='margin:0in'><strong><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  <div class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><strong><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></strong></div>
-  </div>
   </div>
   </div>
   </div>
@@ -4141,32 +4131,34 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   authored or co-authored several packages for the computer algebra program <a
   href="http://www.math.uiuc.edu/Macaulay2/" target="_blank">Macaulay2</a>:<o:p></o:p></span></b></p>
   <ul type=disc>
-   <li class=MsoNormal style='mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
+   <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman";mso-bidi-font-weight:bold'><a
        href="http://www.math.uiuc.edu/Macaulay2/doc/Macaulay2-1.3.1/share/doc/Macaulay2/GenericInitialIdeal/html/index.html"
        target="_blank"><span class=SpellE>GenericInitialIdeal</span></a><o:p></o:p></span></li>
-   <li class=MsoNormal style='mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
+   <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman";mso-bidi-font-weight:bold'><a
        href="http://www.math.uiuc.edu/Macaulay2/doc/Macaulay2-1.3.1/share/doc/Macaulay2/Regularity/html/index.html"
        target="_blank">Regularity</a><o:p></o:p></span></li>
-   <li class=MsoNormal style='mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
+   <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><span
        style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
        "Times New Roman";mso-bidi-font-weight:bold'><a
        href="http://www.math.uiuc.edu/Macaulay2/doc/Macaulay2-1.3.1/share/doc/Macaulay2/SymmetricPolynomials/html/index.html"
        target="_blank"><span class=SpellE>SymmetricPolynomials</span></a><o:p></o:p></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'><a
-       href="code/BigIdeals.m2"><span class=SpellE>BigIdeals</span></a><o:p></o:p></span></li>
-   <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-       tab-stops:list .5in'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-       mso-fareast-font-family:"Times New Roman";mso-bidi-font-weight:bold'><a
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
+       mso-bidi-font-weight:bold'><a href="code/BigIdeals.m2"><span
+       class=SpellE>BigIdeals</span></a><o:p></o:p></span></li>
+   <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+       mso-list:l4 level1 lfo3;tab-stops:list .5in'><span style='font-size:
+       9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
+       mso-bidi-font-weight:bold'><a
        href="http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.11/share/doc/Macaulay2/SymbolicPowers/html/"><span
        class=SpellE>SymbolicPowers</span></a><o:p></o:p></span></li>
   </ul>
-  <p class=MsoNormal style='margin:0in'><!--[if gte vml 1]><o:wrapblock><v:shape
+  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><!--[if gte vml 1]><o:wrapblock><v:shape
     id="_x0000_s1027" type="#_x0000_t75" alt="back to top" href="#top" style='position:absolute;
     margin-left:22in;margin-top:1.25pt;width:15.1pt;height:15.1pt;z-index:251667456;
     visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -4181,11 +4173,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
    </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
    <table cellpadding=0 cellspacing=0 align=left>
     <tr>
-     <td width=1715 height=0></td>
+     <td width=2112 height=0></td>
     </tr>
     <tr>
      <td></td>
-     <td><a href="#top"><img border=0 width=16 height=15
+     <td><a href="#top"><img border=0 width=20 height=20
      src="images/backtotop.gif" alt="back to top" title="" v:shapes="_x0000_s1027"></a></td>
     </tr>
    </table>
@@ -4245,13 +4237,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   <div>
   <div>
   <div>
-  <div>
-  <div class=MsoNormal style='margin:0in'><strong><span style='font-size:9.0pt;
-  font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-  mso-no-proof:yes'>
-  <hr size=0 width="100%" noshade style='color:gray' align=left>
+  <div class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><strong><span
+  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+  "Times New Roman"'>
+  <hr size=1 width="100%" noshade style='color:gray' align=left>
   </span></strong></div>
-  </div>
   </div>
   </div>
   </div>
@@ -4315,139 +4305,125 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
     "Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'>Links</span><span
     style='font-size:13.5pt'><o:p></o:p></span></h2>
     <ul type=disc>
-     <li class=MsoNormal style='mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
+     <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><span
          style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
          "Times New Roman"'><a href="http://www.commalg.org/" target="_blank">commalg.org</a><o:p></o:p></span></li>
-     <li class=MsoNormal style='mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
+     <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><span
          style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
          "Times New Roman"'><a
          href="http://0-www.ams.org.library.unl.edu/mathscinet/" target="_blank"><span
          class=SpellE>MathSciNet</span> via UNL library</a><o:p></o:p></span></li>
-     <li class=MsoNormal style='mso-list:l3 level1 lfo3;tab-stops:list .5in'><span
+     <li class=MsoNormal style='mso-list:l4 level1 lfo3;tab-stops:list .5in'><span
          style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
          "Times New Roman"'><a href="http://arxiv.org/list/math.AC/recent"
          target="_blank"><span class=SpellE>ArXiv</span></a><o:p></o:p></span></li>
-     <li class=MsoNormal style='margin-bottom:0in;mso-list:l3 level1 lfo3;
-         tab-stops:list .5in'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-         mso-fareast-font-family:"Times New Roman"'><a
+     <li class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+         mso-list:l4 level1 lfo3;tab-stops:list .5in'><span style='font-size:
+         9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><a
          href="http://mathoverflow.net" target="_blank"><span class=SpellE>Mathoverflow</span></a><o:p></o:p></span></li>
     </ul>
     </td>
-<<<<<<< HEAD
     <td width="40%" style='width:40.9%;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
     <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-    mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-    </td>
-    <td width="5%" style='width:5.62%;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
-    <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
-    mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-=======
-    <td width="40%" style='width:10%;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R3zDHoxAq5OBTy-gfeFs1Qk8RO-eivlObLLkP5suk2g&cl=ffffff&w=a"></script>
+    mso-fareast-font-family:"Times New Roman"'><script  src="http://mathoverflow.net/users/flair/6989.js?theme=clean" type="text/javascript" align="middle">
+    </script><o:p>&nbsp;</o:p></span></p>
     </td>
     <td width="5%" style='width:5.62%;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
     <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
     mso-fareast-font-family:"Times New Roman"'>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VX7690VN85"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VX7690VN85');
-</script>
+<script  type="text/javascript">
+var _clustrmaps = {'url' : 'http://www.math.unl.edu/~aseceleanu2', 'user' : 1166050, 'server' : '3', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2015-04-06', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www3.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();
+    </script><script id="clustrmaps"  type="text/javascript" src="//cdn.clustrmaps.com/map_v2.js?u=yyzS&d=8Z0P7XbluFMr9QY1y-QhOyMRJH2Z9wejvwQp77-v-RQ">
+    </script>
 <o:p>&nbsp;</o:p></span></p>
->>>>>>> 1de957e3dc4a6357cb73c67b85ba03cd683bc657
     </td>
    </tr>
   </table>
   </div>
-<<<<<<< HEAD
   <form>
   <div align=center>
   <table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:
    1.5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
    <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
     <td style='padding:.75pt .75pt .75pt .75pt'>
-    <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-    font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman"'><a
-    href="http://www.ams.org/mathscinet/search"><span class=SpellE><!-- Search MathSciNet -->MathSciNet</span>
-    search:</a><o:p></o:p></span></p>
+    <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman"'><a href="http://www.ams.org/mathscinet/search"><span
+    class=SpellE><!-- Search MathSciNet -->MathSciNet</span> search:</a><o:p></o:p></span></p>
     </td>
     <td style='padding:.75pt .75pt .75pt .75pt'>
-    <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-    font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-    mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_28" o:spid="_x0000_i1036"
-     type="#_x0000_t75" style='width:105pt;height:18pt;visibility:visible;
-     mso-wrap-style:square'>
+    <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman";mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_28"
+     o:spid="_x0000_i1770" type="#_x0000_t75" style='width:105pt;height:18pt;
+     visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image003.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=105 height=18
-    src="index_files/image012.jpg" v:shapes="Picture_x0020_28"><![endif]></span><span
+    </v:shape><![endif]--><![if !vml]><img border=0 width=140 height=24
+    src="index_files/image004.gif" v:shapes="Picture_x0020_28"><![endif]></span><span
     style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
     "Times New Roman"'><o:p></o:p></span></p>
     </td>
     <td style='padding:.75pt .75pt .75pt .75pt'>
-    <p class=MsoNormal style='margin:0in'><span style='font-size:9.0pt;
-    font-family:"Verdana",sans-serif;mso-fareast-font-family:"Times New Roman";
-    mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_29" o:spid="_x0000_i1035"
-     type="#_x0000_t75" style='width:161pt;height:18pt;visibility:visible;
-     mso-wrap-style:square'>
+    <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+    style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
+    "Times New Roman";mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_29"
+     o:spid="_x0000_i1769" type="#_x0000_t75" style='width:161.25pt;height:18pt;
+     visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image005.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=161 height=18
-    src="index_files/image014.jpg" v:shapes="Picture_x0020_29"><![endif]><span
+    </v:shape><![endif]--><![if !vml]><img border=0 width=215 height=24
+    src="index_files/image006.gif" v:shapes="Picture_x0020_29"><![endif]><span
     style='display:none;mso-hide:all'><!--[if gte vml 1]><v:shape id="Picture_x0020_30"
-     o:spid="_x0000_i1034" type="#_x0000_t75" style='width:1in;height:18pt;
+     o:spid="_x0000_i1768" type="#_x0000_t75" style='width:1in;height:18pt;
      visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image007.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_30"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_31" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:1in;
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image008.gif" v:shapes="Picture_x0020_30"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_31" o:spid="_x0000_i1767" type="#_x0000_t75" style='width:1in;
      height:18pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image009.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_31"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_32" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:1in;
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image010.gif" v:shapes="Picture_x0020_31"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_32" o:spid="_x0000_i1766" type="#_x0000_t75" style='width:1in;
      height:18pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image011.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_32"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_33" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:1in;
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image012.gif" v:shapes="Picture_x0020_32"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_33" o:spid="_x0000_i1765" type="#_x0000_t75" style='width:1in;
      height:18pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image013.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_33"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_34" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:1in;
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image014.gif" v:shapes="Picture_x0020_33"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_34" o:spid="_x0000_i1764" type="#_x0000_t75" style='width:1in;
      height:18pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image015.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_34"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_35" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:1in;
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image016.gif" v:shapes="Picture_x0020_34"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_35" o:spid="_x0000_i1763" type="#_x0000_t75" style='width:1in;
      height:18pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image017.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_35"><![endif]></span><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_36" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:59pt;
-     height:23pt;visibility:visible;mso-wrap-style:square'>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image018.gif" v:shapes="Picture_x0020_35"><![endif]></span><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_36" o:spid="_x0000_i1762" type="#_x0000_t75" style='width:58.5pt;
+     height:22.5pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image019.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=59 height=23
-    src="index_files/image018.jpg" v:shapes="Picture_x0020_36"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_37" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:32pt;
-     height:23pt;visibility:visible;mso-wrap-style:square'>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=78 height=30
+    src="index_files/image020.gif" v:shapes="Picture_x0020_36"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_37" o:spid="_x0000_i1761" type="#_x0000_t75" style='width:31.5pt;
+     height:22.5pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image021.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=32 height=23
-    src="index_files/image020.jpg" v:shapes="Picture_x0020_37"><![endif]><span
+    </v:shape><![endif]--><![if !vml]><img border=0 width=42 height=30
+    src="index_files/image022.gif" v:shapes="Picture_x0020_37"><![endif]><span
     style='display:none;mso-hide:all'><!--[if gte vml 1]><v:shape id="Picture_x0020_38"
-     o:spid="_x0000_i1026" type="#_x0000_t75" style='width:1in;height:18pt;
+     o:spid="_x0000_i1760" type="#_x0000_t75" style='width:1in;height:18pt;
      visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image023.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_38"><![endif]><!--[if gte vml 1]><v:shape
-     id="Picture_x0020_39" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:1in;
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image024.gif" v:shapes="Picture_x0020_38"><![endif]><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_39" o:spid="_x0000_i1759" type="#_x0000_t75" style='width:1in;
      height:18pt;visibility:visible;mso-wrap-style:square'>
      <v:imagedata src="index_files/image025.wmz" o:title=""/>
-    </v:shape><![endif]--><![if !vml]><img border=0 width=72 height=18
-    src="index_files/image016.jpg" v:shapes="Picture_x0020_39"><![endif]></span></span><span
+    </v:shape><![endif]--><![if !vml]><img border=0 width=96 height=24
+    src="index_files/image026.gif" v:shapes="Picture_x0020_39"><![endif]></span></span><span
     style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
     "Times New Roman"'><o:p></o:p></span></p>
     </td>
@@ -4455,24 +4431,19 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
   </table>
   </div>
   </form>
-  <p class=MsoNormal align=center style='margin:0in;text-align:center'><span
-  style='font-size:9.0pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-=======
   <p class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
   text-align:center'><span style='font-size:9.0pt;font-family:"Verdana",sans-serif;
   mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
->>>>>>> 1de957e3dc4a6357cb73c67b85ba03cd683bc657
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:3.75pt'>
   <td width="100%" style='width:100.0%;padding:0in 0in 0in 0in;height:3.75pt'>
-  <p class=MsoNormal style='margin:0in;mso-line-height-alt:3.75pt'><!--[if gte vml 1]><o:wrapblock><v:shape
-    id="Picture_x0020_3" o:spid="_x0000_s1026" type="#_x0000_t75" alt="back to top"
-    href="#top" style='position:absolute;margin-left:22in;margin-top:-16.1pt;
-    width:15.1pt;height:15.1pt;z-index:251659264;visibility:visible;
-    mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
-    mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
+  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;mso-line-height-alt:
+  3.75pt'><!--[if gte vml 1]><o:wrapblock><v:shape id="Picture_x0020_3" o:spid="_x0000_s1026"
+    type="#_x0000_t75" alt="back to top" href="#top" style='position:absolute;
+    margin-left:22in;margin-top:-16.1pt;width:15.1pt;height:15.1pt;z-index:251659264;
+    visibility:visible;mso-wrap-style:square;mso-width-percent:0;
+    mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
     mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;
     mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
     mso-position-vertical:absolute;mso-position-vertical-relative:text;
@@ -4483,11 +4454,11 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
    </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
    <table cellpadding=0 cellspacing=0>
     <tr>
-     <td width=1715 height=0></td>
+     <td width=2112 height=0></td>
     </tr>
     <tr>
      <td></td>
-     <td><a href="#top"><img border=0 width=16 height=16
+     <td><a href="#top"><img border=0 width=20 height=20
      src="images/backtotop.gif" alt="back to top" title="" v:shapes="Picture_x0020_3"></a></td>
     </tr>
    </table>
@@ -4506,12 +4477,13 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
     height:15.0pt'>
     <td style='background:#C60202;padding:0in 0in 0in 0in;height:15.0pt'><!-- InstanceBeginEditable name="footer" -->
     <div id=footer>
-    <p class=MsoNormal align=center style='margin:0in;text-align:center'><span
-    style='font-size:7.5pt;font-family:"Verdana",sans-serif;mso-fareast-font-family:
-    "Times New Roman";color:white'><a href="http://www.unl.edu" target="_blank"><span
-    style='color:white'>University of Nebraska–Lincoln</span></a> | <a
-    href="http://www.math.unl.edu" target="_blank"><span style='color:white'>Department
-    of Mathematics</span></a> | 203 Avery Hall | Lincoln, NE 68588<o:p></o:p></span></p>
+    <p class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
+    text-align:center'><span style='font-size:7.5pt;font-family:"Verdana",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:white'><a
+    href="http://www.unl.edu" target="_blank"><span style='color:white'>University
+    of Nebraska–Lincoln</span></a> | <a href="http://www.math.unl.edu"
+    target="_blank"><span style='color:white'>Department of Mathematics</span></a>
+    | 203 Avery Hall | Lincoln, NE 68588<o:p></o:p></span></p>
     </div>
     </td>
    </tr>
@@ -4520,8 +4492,8 @@ word-wrap:break-word;margin-left:18.75pt;margin-right:18.75pt'>
  </tr>
 </table>
 
-<p class=MsoNormal style='margin:0in'><span style='mso-fareast-font-family:
-"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
